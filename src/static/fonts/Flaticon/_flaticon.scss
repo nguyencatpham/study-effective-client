@@ -1,0 +1,105 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 22/06/2017 04:52
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-arrows:before { content: "\f100"; }
+.flaticon-right-arrow:before { content: "\f101"; }
+.flaticon-signs:before { content: "\f102"; }
+.flaticon-plus-sign-to-add:before { content: "\f103"; }
+.flaticon-dustbin:before { content: "\f104"; }
+.flaticon-heart-shape-silhouette:before { content: "\f105"; }
+.flaticon-confirm:before { content: "\f106"; }
+.flaticon-shopping-cart-with-check-mark:before { content: "\f107"; }
+.flaticon-commerce:before { content: "\f108"; }
+.flaticon-help-button-speech-bubble-with-question-mark:before { content: "\f109"; }
+.flaticon-commerce-3:before { content: "\f10a"; }
+.flaticon-commerce-2:before { content: "\f10b"; }
+.flaticon-ask:before { content: "\f10c"; }
+.flaticon-dollars-money-bag-on-a-hand:before { content: "\f10d"; }
+.flaticon-commerce-1:before { content: "\f10e"; }
+.flaticon-instagram-logo:before { content: "\f10f"; }
+.flaticon-pinterest-logo:before { content: "\f110"; }
+.flaticon-twitter-logo:before { content: "\f111"; }
+.flaticon-facebook-circular-logo:before { content: "\f112"; }
+.flaticon-telemarketer:before { content: "\f113"; }
+.flaticon-avatar:before { content: "\f114"; }
+.flaticon-mail:before { content: "\f115"; }
+.flaticon-phone-call:before { content: "\f116"; }
+.flaticon-web-page-home:before { content: "\f117"; }
+.flaticon-send:before { content: "\f118"; }
+.flaticon-cook-hat:before { content: "\f119"; }
+.flaticon-male-chat-support:before { content: "\f11a"; }
+.flaticon-forward-time:before { content: "\f11b"; }
+.flaticon-shield:before { content: "\f11c"; }
+.flaticon-logistics-delivery-truck-and-clock:before { content: "\f11d"; }
+.flaticon-delivery-truck:before { content: "\f11e"; }
+.flaticon-credit-card:before { content: "\f11f"; }
+.flaticon-computer-monitor-and-mouse:before { content: "\f120"; }
+    
+    $font-Flaticon-arrows: "\f100";
+    $font-Flaticon-right-arrow: "\f101";
+    $font-Flaticon-signs: "\f102";
+    $font-Flaticon-plus-sign-to-add: "\f103";
+    $font-Flaticon-dustbin: "\f104";
+    $font-Flaticon-heart-shape-silhouette: "\f105";
+    $font-Flaticon-confirm: "\f106";
+    $font-Flaticon-shopping-cart-with-check-mark: "\f107";
+    $font-Flaticon-commerce: "\f108";
+    $font-Flaticon-help-button-speech-bubble-with-question-mark: "\f109";
+    $font-Flaticon-commerce-3: "\f10a";
+    $font-Flaticon-commerce-2: "\f10b";
+    $font-Flaticon-ask: "\f10c";
+    $font-Flaticon-dollars-money-bag-on-a-hand: "\f10d";
+    $font-Flaticon-commerce-1: "\f10e";
+    $font-Flaticon-instagram-logo: "\f10f";
+    $font-Flaticon-pinterest-logo: "\f110";
+    $font-Flaticon-twitter-logo: "\f111";
+    $font-Flaticon-facebook-circular-logo: "\f112";
+    $font-Flaticon-telemarketer: "\f113";
+    $font-Flaticon-avatar: "\f114";
+    $font-Flaticon-mail: "\f115";
+    $font-Flaticon-phone-call: "\f116";
+    $font-Flaticon-web-page-home: "\f117";
+    $font-Flaticon-send: "\f118";
+    $font-Flaticon-cook-hat: "\f119";
+    $font-Flaticon-male-chat-support: "\f11a";
+    $font-Flaticon-forward-time: "\f11b";
+    $font-Flaticon-shield: "\f11c";
+    $font-Flaticon-logistics-delivery-truck-and-clock: "\f11d";
+    $font-Flaticon-delivery-truck: "\f11e";
+    $font-Flaticon-credit-card: "\f11f";
+    $font-Flaticon-computer-monitor-and-mouse: "\f120";

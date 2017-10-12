@@ -1,0 +1,10 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <g transform="rotate(209.417 25 25)">
+    <animateTransform attributeName="transform" type="rotate" values="0,25,25; 359,25,25;" dur="0.8s"
+                      repeatCount="indefinite"/>
+    <path fill="none" stroke="#79776B" stroke-width="1.898" stroke-miterlimit="10"
+          d="M40.088 6.696c5.272 4.35 8.633 10.935 8.633 18.304 0 13.101-10.62 23.721-23.721 23.721S1.279 38.101 1.279 25 11.899 1.279 25 1.279"/>
+  </g>
+</svg>

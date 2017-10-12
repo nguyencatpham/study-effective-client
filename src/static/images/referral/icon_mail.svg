@@ -1,0 +1,28 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="44" height="44"
+     viewBox="0 0 44 44">
+  <title>Group</title>
+  <defs>
+    <path
+      d="M55.995 29c1.107 0 2.005.898 2.005 1.992v24.016A2 2 0 0 1 55.995 57h-39.99A2.002 2.002 0 0 1 14 55.008V30.992A2 2 0 0 1 16.005 29"
+      id="a"/>
+    <mask id="c" x="0" y="0" width="44" height="28" fill="#fff">
+      <use xlink:href="#a"/>
+    </mask>
+    <path d="M20 35.167V19.009c0-.557.477-1.009 1.065-1.009h29.87c.588 0 1.065.442 1.065.994v15.968" id="b"/>
+    <mask id="d" x="0" y="0" width="32" height="17.167" fill="#fff">
+      <use xlink:href="#b"/>
+    </mask>
+  </defs>
+  <g transform="translate(-14 -13)" fill="none" fill-rule="evenodd">
+    <path d="M0 0h72v72H0z"/>
+    <use stroke="#42413E" mask="url(#c)" stroke-width="4" xlink:href="#a"/>
+    <path d="M16 29.884l19.978-15.92L56.042 29.92" stroke="#42413E" stroke-width="2" stroke-linecap="round"
+          stroke-linejoin="round"/>
+    <use stroke="#42413E" mask="url(#d)" stroke-width="4" fill="#FFF" xlink:href="#b"/>
+    <path d="M16 31l16.082 12.815m7.749.04l16.21-12.89M16 55.884l19.978-14.92L56.042 55.92" stroke="#42413E"
+          stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path fill="#F27242" d="M31 35h1.785v-5.976L35.174 35h1.495l2.401-6.012V35H41v-9h-2.57l-2.424 6.146L33.581 26H31z"/>
+  </g>
+</svg>

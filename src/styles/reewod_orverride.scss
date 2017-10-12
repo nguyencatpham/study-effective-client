@@ -1,0 +1,81 @@
+// overide _flex_sitewide 1453
+button:hover,
+.button:hover {
+    background-color: #b90223;
+    border-color: none;
+    cursor: pointer
+}
+
+// overide _flex_sitewide 1731
+button.link,
+.button.link {
+    border: none;
+}
+
+// override _menu_page 6460
+button.link,
+.button.link {
+    border: 0;
+}
+
+//override _menu_page 6506
+button.orange.link,
+.button.orange.link {
+    border: 0;
+}
+
+//override _menu_page 6510
+button.orange.link:hover,
+.button.orange.link:hover {
+    border: 0;
+}
+
+//override _menu_page 6519
+button.orange.link.active,
+.button.orange.link.active,
+button.orange.link:active,
+.button.orange.link:active {
+    border: 0;
+}
+
+nav.hamburger-nav {
+    z-index: 1000;
+    position: relative;
+}
+
+.hamburger-nav-container .clickable-area {
+    z-index: 999
+}
+
+//landing page 1281
+.email-squeeze-form {
+    display: inline-block;
+}
+
+.landing-page .f-strata .signup-login-form .button {
+    display: inline-block;
+}
+
+.landing-page .villain p {
+    max-width: 100%;
+}
+
+.landing-page .container {
+    max-width: 100%;
+}
+.buttons {
+    padding-top: 0!important;
+}
+
+.signin-form .forgot-password {
+	display: block;
+}
+.signin-form .forgot-password-mobile {
+	display: none;
+}
+.date-picker ul.date-picker-dates li.future{
+    pointer-events: initial;
+}
+.account-profile .profile-photo a.change-photo-link{
+    display: block;
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg" width="7" height="16" viewBox="0 0 7 16">
+  <title>Group</title>
+  <g fill="none" fill-rule="evenodd">
+    <path d="M-4 0h16v16H-4z"/>
+    <path class="color-path"
+          d="M5.338 2.807c-.35 0-.7.374-.7.655v1.871H7a43.859 43.859 0 0 1-.262 2.714h-2.1V16h-3.15V7.953H0V5.24h1.487V3.088C1.487 2.713 1.4 0 4.637 0h2.276C7 1.123 7 2.433 7 2.807H5.338z"
+          fill="#FFF"/>
+  </g>
+</svg>

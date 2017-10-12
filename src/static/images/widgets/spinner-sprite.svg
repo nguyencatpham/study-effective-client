@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17.9 55.9">
+  <style>
+    .st0,.st1,.st2{fill:none;stroke:#fff;stroke-width:1.8977;stroke-miterlimit:10}.st1,.st2{stroke:#79776b}.st2{stroke:#dc4b16}
+  </style>
+  <g id="White">
+    <path class="st0" d="M14 2.8c1.8 1.5 2.9 3.7 2.9 6.2 0 4.4-3.6 8-8 8s-8-3.6-8-8 3.6-8 8-8" id="spinner"/>
+  </g>
+  <g id="Gray">
+    <path class="st1" d="M14 21.8c1.8 1.5 2.9 3.7 2.9 6.2 0 4.4-3.6 8-8 8s-8-3.6-8-8 3.6-8 8-8" id="spinner_1_"/>
+  </g>
+  <g id="Orange">
+    <path class="st2" d="M14 40.8c1.8 1.5 2.9 3.7 2.9 6.2 0 4.4-3.6 8-8 8s-8-3.6-8-8 3.6-8 8-8" id="spinner_2_"/>
+  </g>
+</svg>

@@ -1,0 +1,5 @@
+export const NEW = 'NEW'
+export const PROCESSING = 'PROCESSING'
+export const TRANSPORTING = 'TRANSPORTING'
+export const COMPLETE = 'COMPLETE'
+export const CANCELLED = 'CANCELLED'

@@ -1,0 +1,10 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <title>logout</title>
+  <g fill="none" fill-rule="evenodd">
+    <path d="M0 0h16v16H0z"/>
+    <path stroke="#F27242" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"
+          d="M7 2h6v11.014H7M2.5 7.5h7M4.128 5.027L1.827 7.469l2.227 2.58"/>
+  </g>
+</svg>

@@ -1,0 +1,25 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" width="36" height="36" viewBox="0 0 36 36">
+  <style>
+    .st0{fill:none}.st1{fill:#ff7d4c}.st2,.st3{fill:none;stroke:#363835;stroke-width:1.6}.st3{stroke-linecap:round}
+  </style>
+  <title>icon_wine</title>
+  <g id="Page-1_1_">
+    <g id="icon_wine">
+      <g id="Group-15">
+        <path id="Rectangle-258" class="st0" d="M0 0h35.8v36H0z"/>
+        <g id="Page-1" transform="translate(8.654 1.055)">
+          <g id="Group-5">
+            <path id="Fill-1" class="st1"
+                  d="M2.8 11.5c.2 4 2 7.9 7.8 7.9 6.2 0 6.5-4.6 6.5-8.9-1 .7-2.9 2.9-6.9 1-3.1-1.8-6-.8-7.4 0z"/>
+            <path id="Stroke-3-Copy" class="st2" d="M2 3.2c-.2 0-5.1 16.9 7 16.9s6.8-17.3 6.8-17.3"/>
+            <path id="Stroke-9" class="st2" d="M9 5.7c-4 0-7-1-7-2.4S5 .9 9 .9s7 1 7 2.4c-.1 1.4-3.1 2.4-7 2.4z"/>
+            <path id="Line" class="st3" d="M9 20.3v10.5"/>
+            <ellipse id="Oval" class="st2" cx="9" cy="31" rx="5.1" ry="2.4"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

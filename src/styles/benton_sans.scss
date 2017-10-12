@@ -1,0 +1,65 @@
+  $domainCDN : 'http://resources.panova.vn';
+
+
+@font-face {
+  font-family: 'BentonSans';
+  src: url($domainCDN+"/static/fonts/BentonSans/BentonSansLight.eot;charset=utf-8");
+  src: local("?"), url($domainCDN+"/static/fonts/BentonSans/BentonSansLight.woff;charset=utf-8") format("woff"), url($domainCDN+"/static/fonts/BentonSans/BentonSansLight.ttf;charset=utf-8") format("truetype"), url($domainCDN+"/static/fonts/BentonSans/BentonSansLight.svg#web") format("svg");
+  font-weight: 100;
+  font-style: normal;
+  unicode-range: U+0590-05FF, U+20AA, U+25CC, U+FB1D-FB4F;
+}
+
+@font-face {
+  font-family: 'BentonSans';
+  src: url($domainCDN+"/static/fonts/BentonSans/BentonSansBook.eot;charset=utf-8");
+  src: local("?"), url($domainCDN+"/static/fonts/BentonSans/BentonSansBook.woff;charset=utf-8") format("woff"), url($domainCDN+"/static/fonts/BentonSans/BentonSansBook.ttf;charset=utf-8") format("truetype"), url($domainCDN+"/static/fonts/BentonSans/BentonSansBook.svg#web") format("svg");
+  font-weight: 400;
+  font-style: normal;
+  unicode-range: U+0590-05FF, U+20AA, U+25CC, U+FB1D-FB4F;
+}
+
+@font-face {
+  font-family: 'BentonSans';
+  src: url($domainCDN+"/static/fonts/BentonSans/BentonSansMedium.eot;charset=utf-8");
+  src: local("?"), url($domainCDN+"/static/fonts/BentonSans/BentonSansMedium.woff;charset=utf-8") format("woff"), url($domainCDN+"/static/fonts/BentonSans/BentonSansMedium.ttf;charset=utf-8") format("truetype"), url($domainCDN+"/static/fonts/BentonSans/BentonSansMedium.svg#web") format("svg");
+  font-weight: 600;
+  font-style: normal;
+  unicode-range: U+0590-05FF, U+20AA, U+25CC, U+FB1D-FB4F;
+}
+
+@font-face {
+  font-family: 'BentonSans';
+  src: url($domainCDN+"/static/fonts/BentonSans/BentonBold.eot;charset=utf-8");
+  src: local("?"), url($domainCDN+"/static/fonts/BentonSans/BentonBold.woff;charset=utf-8") format("woff"), url($domainCDN+"/static/fonts/BentonSans/BentonBold.woff2;charset=utf-8") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  unicode-range: U+0590-05FF, U+20AA, U+25CC, U+FB1D-FB4F;
+}
+
+@font-face {
+  font-family: 'BentonSansCondensedBold';
+  src: url($domainCDN+"/static/fonts/BentonSans/BentonSansCondensedBold.eot;charset=utf-8");
+  src: local("?"), url($domainCDN+"/static/fonts/BentonSans/BentonSansCondensedBold.woff;charset=utf-8") format("woff"), url($domainCDN+"/static/fonts/BentonSans/BentonSansCondensedBold.ttf;charset=utf-8") format("truetype"), url($domainCDN+"/static/fonts/BentonSans/BentonSansCondensedBold.svg#web") format("svg");
+  font-weight: 700;
+  font-style: normal;
+  unicode-range: U+0590-05FF, U+20AA, U+25CC, U+FB1D-FB4F;
+}
+
+@font-face {
+  font-family: 'BentonSansCondensedMedium';
+  src: url($domainCDN+"/static/fonts/BentonSans/BentonSansCondensedMedium.eot;charset=utf-8");
+  src: local("?"), url($domainCDN+"/static/fonts/BentonSans/BentonSansCondensedMedium.woff;charset=utf-8") format("woff"), url($domainCDN+"/static/fonts/BentonSans/BentonSansCondensedMedium.ttf;charset=utf-8") format("truetype"), url($domainCDN+"/static/fonts/BentonSans/BentonSansCondensedMedium.svg#web") format("svg");
+  font-weight: 700;
+  font-style: normal;
+  unicode-range: U+0590-05FF, U+20AA, U+25CC, U+FB1D-FB4F;
+}
+
+@font-face {
+  font-family: 'BentonSansCompressedMedium';
+  src: url($domainCDN+"/static/fonts/BentonSans/BentonSansCompressedMedium.eot;charset=utf-8");
+  src: local("?"), url($domainCDN+"/static/fonts/BentonSans/BentonSansCompressedMedium.woff;charset=utf-8") format("woff"), url($domainCDN+"/static/fonts/BentonSans/BentonSansCompressedMedium.ttf;charset=utf-8") format("truetype"), url($domainCDN+"/static/fonts/BentonSans/BentonSansCompressedMedium.svg#web") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  unicode-range: U+0590-05FF, U+20AA, U+25CC, U+FB1D-FB4F;
+}

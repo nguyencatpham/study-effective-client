@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" width="920" height="522" viewBox="0 0 920 522">
+  <style>
+    .st0{fill:none;stroke:#dad9d9;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:4,7}.st1{fill:#d8d8d8}
+  </style>
+  <title>Artboard 2</title>
+  <g id="Page-1">
+    <g id="Artboard-2">
+      <g id="Group" transform="translate(-2 -2)">
+        <path id="Path-2" class="st0" d="M556 316h264c53.6 0 97-43.4 97-97s-43.4-97-97-97h-28"/>
+      </g>
+      <path id="Triangle-Copy" class="st1" d="M593 120l-10 8v-16z"/>
+      <path id="Triangle-Copy_1_" class="st1" d="M142.5 485l-10 8v-16z"/>
+      <path id="Triangle-Copy_2_" class="st1" d="M618.2 485l-10 8v-16z"/>
+      <path id="Triangle-Copy-2" class="st1" d="M546 314l10-8v16z"/>
+      <path id="Path-4_1_" class="st0" d="M134.2 485H92.4C45.3 485 7 446.7 7 399.5S45.3 314 92.5 314H370"/>
+      <path id="Path-5" class="st0" d="M584.5 120H290"/>
+      <path id="Path-6" class="st0" d="M308 485h308.5"/>
+    </g>
+  </g>
+</svg>

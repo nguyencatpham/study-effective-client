@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="11"
+     viewBox="0 0 16 11">
+  <title>Group</title>
+  <defs>
+    <path
+      d="M1.473 0h13.054L8.06 5.874c-.028.025-.09.025-.118 0L1.473 0zM16 1.338v8.647c0 .56-.462 1.015-1 1.015H1c-.552 0-1-.445-1-1.015V1.338l6.583 5.978c.792.72 2.038.723 2.834 0L16 1.338z"
+      id="a"/>
+    <mask id="b" x="0" y="0" width="16" height="11" fill="#fff">
+      <use xlink:href="#a"/>
+    </mask>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <path d="M0-2h16v16H0z"/>
+    <use mask="url(#b)" xlink:href="#a" stroke="#FFF" stroke-width="3.032" fill="#FFF"/>
+  </g>
+</svg>

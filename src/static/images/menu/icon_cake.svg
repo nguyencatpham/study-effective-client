@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+  <title>icon_cake</title>
+  <g fill="none" fill-rule="evenodd">
+    <path d="M0 0h36v36H0z"/>
+    <path
+      d="M8.17 17.396c1.357-.503 2.844-1.079 4.072 1.862 1.228 2.94 4.42 3.156 6.029 1.79 1.609-1.367 2.706-3.412 4.502-3.048 1.796.364 2.056 3.498 4.141 3.498C29 21.498 29 16.893 29 16.893l-.508-1.988c-.043-.165-10.373-9.028-10.416-8.904-.042.125-7.409.911-10.076 7.538l.17 3.857z"
+      fill="#FF7D4C"/>
+    <path
+      d="M8.154 23.46L29 24.706v-9.46L7.896 13.807l.258 9.653zM18.2 6s-7.208.891-10.308 7.791l21.117 1.433L18.2 6zM8 19l21 1"
+      stroke="#363835" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path
+      d="M29.05 18.773c3.528 1.234 5.772 3.09 5.772 5.165 0 3.716-7.198 6.729-16.078 6.729-8.879 0-16.077-3.013-16.077-6.73 0-2.04 2.168-3.867 5.593-5.1"
+      stroke="#363835" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

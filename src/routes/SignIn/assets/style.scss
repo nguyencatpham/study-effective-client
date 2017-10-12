@@ -1,0 +1,23 @@
+.logreg-wrapp {
+  background: #f3f3f3 url('../../../../src/routes/SignIn/assets/signin-background.jpg') no-repeat center center fixed;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  padding: 155px 0;
+
+  .freezable-body {
+    background-color: transparent;
+  }
+}
+
+.signin-view {
+  background-color: #fff;
+  background-color: hsla(0,0%,100%,.95);
+  padding-top: 20px;
+  padding-bottom: 50px;
+}
+
+.signin-view .signin-content {
+  padding: 0 5%;
+}

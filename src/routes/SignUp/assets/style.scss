@@ -1,0 +1,281 @@
+.logreg-wrapp {
+  background: #f3f3f3 url('../../../../src/routes/SignUp/assets/signin-background.jpg') no-repeat center center fixed;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  padding: 155px 0;
+
+  .freezable-body {
+    background-color: transparent;
+  }
+}
+
+.signup-bg {
+  background-color: white;
+  width: 100%
+}
+
+@media (min-width: 767px) {
+  .signup-bg {
+    background-image: url('../../../../src/routes/SignUp/assets/signin-background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover
+  }
+}
+
+.signup-bg.invite {
+  //background-image: url(/assets/invite_claim-e62f9fe9dad3fc7fa35472dbbad9d561588e0d722e6a9e936c87a87f07272f63.jpg);
+  background-repeat: no-repeat;
+  height: 100%
+}
+
+@media (min-width: 767px) {
+  .signup-stage {
+    margin-top: 40px;
+    padding-bottom: 150px
+  }
+}
+
+.flexboxtweener:not(.flexbox) .row.center-x .signup-stage {
+  background-color: white;
+  background-color: rgba(255, 255, 255, 0.95);
+  width: 100%
+}
+
+@media (min-width: 767px) {
+  .flexboxtweener:not(.flexbox) .row.center-x .signup-stage {
+    width: 100%
+  }
+}
+
+@media (min-width: 990px) {
+  .flexboxtweener:not(.flexbox) .row.center-x .signup-stage {
+    width: 83.33333%
+  }
+}
+
+.signup-view {
+  background-color: white;
+  background-color: rgba(255, 255, 255, 0.95);
+  padding-top: 20px;
+  padding-bottom: 50px
+}
+
+.container-12 .signup-view {
+  padding-left: 170px
+}
+
+.signup-view #user-phone {
+  width: 48.5%;
+  float: right
+}
+
+.signup-view input#user_phone {
+  width: 100%
+}
+
+.signup-view #invitation-code-link {
+  font-size: 12px;
+  float: right;
+  margin-top: 30px
+}
+
+.signup-view .signup-content {
+  margin-top: 50px;
+  text-align: left
+}
+
+.signup-view .signup-content .signup-content-section {
+  display: block;
+  margin-left: 4%;
+  margin-right: 4%;
+  width: auto
+}
+
+@media (min-width: 767px) {
+  .signup-view .signup-content .signup-content-section {
+    float: left;
+    margin-left: 10%;
+    margin-right: 9%;
+    width: 40%
+  }
+}
+
+.signup-view .signup-content .signup-content-section + .signup-content-section {
+  display: none;
+  margin-left: 0;
+  width: 31%
+}
+
+@media (min-width: 767px) {
+  .signup-view .signup-content .signup-content-section + .signup-content-section {
+    display: block
+  }
+}
+
+.signup-view .signup-content h3 {
+  font-family: "BentonSans", Helvetica, Arial, sans-serif;
+  font-weight: 100;
+  font-style: normal;
+  letter-spacing: 1px;
+  font-size: 22px;
+  line-height: 30px;
+  text-align: left;
+  margin-top: 0
+}
+
+.signup-view .signup-content h4 {
+  font-family: "BentonSans", Helvetica, Arial, sans-serif;
+  font-weight: 100;
+  font-style: normal;
+  letter-spacing: 1px;
+  font-size: 15px;
+  line-height: 24px;
+  margin-top: 30px
+}
+
+.signup-view .signup-content .signup-message ul {
+  margin-left: 15px
+}
+
+.signup-view .signup-content .signup-message ul li {
+  font-size: 11px
+}
+
+.signup-view .signup-content input {
+  box-sizing: border-box;
+  display: inline-block;
+  float: left;
+  margin-top: 15px
+}
+
+@media (max-width: 989px) {
+  .signup-view .signup-content input {
+    font-size: 14px;
+    line-height: 1;
+    height: 54px;
+    padding-top: 20px;
+    padding-bottom: 20px
+  }
+}
+
+.signup-view .button.large {
+  line-height: 54px;
+  text-align: center;
+  display: block;
+  float: none;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 0;
+  padding-bottom: 0;
+  width: 100%
+}
+
+@media (min-width: 990px) {
+  .signup-view .button.large {
+    line-height: 35px;
+    min-width: 213px;
+    width: auto
+  }
+}
+
+.signup-view .signup-content .facebook-sign-up {
+  text-align: center
+}
+
+.signup-view .signup-content .facebook-sign-up .facebook {
+  line-height: 37px;
+  text-align: center;
+  padding: 0;
+  width: 100%;
+}
+
+@media (min-width: 990px) {
+  .signup-view .signup-content .facebook-sign-up .facebook {
+    padding-left: 20px
+  }
+}
+
+.signup-view .signup-content .facebook-sign-up p {
+  font-size: 10px;
+  text-align: center;
+  margin: 5px
+}
+
+.signup-view .signup-content .divider {
+  text-align: center;
+  display: block;
+  margin-top: 10px;
+  margin-bottom: 0;
+  width: 100%;
+  position: relative;
+  z-index: 1
+}
+
+.signup-view .signup-content .divider:before {
+  background-color: #B9B9AF;
+  content: " ";
+  display: block;
+  height: 1px;
+  width: 43%;
+  position: absolute;
+  top: 50%;
+  left: 0;
+  z-index: -1
+}
+
+.signup-view .signup-content .divider:after {
+  background-color: #B9B9AF;
+  content: " ";
+  display: block;
+  height: 1px;
+  width: 43%;
+  position: absolute;
+  top: 50%;
+  right: 0;
+  z-index: -1
+}
+
+.signup-view .signup-content input#user_first_name, .signup-view .signup-content input#user_last_name, .signup-view .signup-content input#user_default_zipcode, .signup-view .signup-content input#invitation_code {
+  width: 48.5%
+}
+
+.signup-view .signup-content input#user_last_name, .signup-view .signup-content input#invitation_code {
+  margin-left: 3%
+}
+
+.signup-view .signup-content input#user_email, .signup-view .signup-content input#user_password {
+  width: 100%
+}
+
+.signup-view .signup-content #error_explanation {
+  font-family: "BentonSans", Helvetica, Arial, sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  letter-spacing: 0.5px;
+  color: #DE240B;
+  margin-top: 20px
+}
+
+.signup-view .signup-content .password-label-container {
+  display: none
+}
+
+.lt-ie10 .signup-view .signup-content .password-label-container {
+  display: block;
+  margin-top: 20px;
+  margin-bottom: -5px
+}
+
+.signup-view .signup-content .tos {
+  font-size: 10px;
+  color: #B9B9AF;
+  margin-top: 30px;
+  text-align: center;
+  line-height: 14px
+}
+
+.signup-view .signup-content .tos .secondary {
+  font-size: 10px;
+}

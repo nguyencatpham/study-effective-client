@@ -1,0 +1,67 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="170"
+     viewBox="0 0 20 170">
+  <title>spriteCheckoutIcons</title>
+  <defs>
+    <path id="a" d="M0 5h16v15H0z"/>
+    <mask id="i" x="0" y="0" width="16" height="15" fill="#fff">
+      <use xlink:href="#a"/>
+    </mask>
+    <path d="M13 5A5 5 0 0 0 3 5" id="b"/>
+    <mask id="j" x="0" y="0" width="10" height="5" fill="#fff">
+      <use xlink:href="#b"/>
+    </mask>
+    <path id="c" d="M0 0h16v16l-2-1-2 1-2-1-2 1-2-1-2 1-2-1-2 1z"/>
+    <mask id="k" x="0" y="0" width="16" height="16" fill="#fff">
+      <use xlink:href="#c"/>
+    </mask>
+    <rect id="d" width="20" height="14" rx="2"/>
+    <mask id="l" x="0" y="0" width="20" height="14" fill="#fff">
+      <use xlink:href="#d"/>
+    </mask>
+    <path d="M8 20c5-3 8-7.582 8-12A8 8 0 1 0 0 8c0 4.418 3 9 8 12z" id="e"/>
+    <mask id="m" x="0" y="0" width="16" height="20" fill="#fff">
+      <use xlink:href="#e"/>
+    </mask>
+    <circle id="f" cx="8" cy="8" r="4"/>
+    <mask id="n" x="0" y="0" width="8" height="8" fill="#fff">
+      <use xlink:href="#f"/>
+    </mask>
+    <circle id="g" cx="10" cy="10" r="10"/>
+    <mask id="o" x="0" y="0" width="20" height="20" fill="#fff">
+      <use xlink:href="#g"/>
+    </mask>
+    <circle id="h" cx="10" cy="10" r="10"/>
+    <mask id="p" x="0" y="0" width="20" height="20" fill="#fff">
+      <use xlink:href="#h"/>
+    </mask>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(2)" stroke="#515252" stroke-width="4">
+      <use mask="url(#i)" xlink:href="#a"/>
+      <use mask="url(#j)" xlink:href="#b"/>
+    </g>
+    <g transform="translate(2 32)">
+      <use stroke="#515252" mask="url(#k)" stroke-width="4" xlink:href="#c"/>
+      <path fill="#515252" d="M5 4h6v2H5zM5 8h8v2H5z"/>
+    </g>
+    <g transform="translate(0 93)">
+      <use stroke="#515252" mask="url(#l)" stroke-width="4" xlink:href="#d"/>
+      <path fill="#515252" d="M2 4h17v2H2zM4 8h6v2H4z"/>
+    </g>
+    <g transform="translate(2 60)" stroke="#515252" stroke-width="4">
+      <use mask="url(#m)" xlink:href="#e"/>
+      <use mask="url(#n)" xlink:href="#f"/>
+    </g>
+    <g transform="translate(0 120)">
+      <use stroke="#FF3E1C" mask="url(#o)" stroke-width="4" xlink:href="#g"/>
+      <circle fill="#FF3E1C" cx="10" cy="14.25" r="1.25"/>
+      <rect fill="#FF3E1C" x="9" y="5" width="2" height="7" rx="1"/>
+    </g>
+    <g transform="translate(0 150)" stroke="#515252">
+      <use mask="url(#p)" stroke-width="4" xlink:href="#h"/>
+      <path stroke-width="2" stroke-linecap="round" d="M10 6.333V11h3.667"/>
+    </g>
+  </g>
+</svg>

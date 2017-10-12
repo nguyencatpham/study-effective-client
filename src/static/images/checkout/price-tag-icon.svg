@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="42" height="47"
+     viewBox="0 0 42 47">
+  <title>icon_savings</title>
+  <defs>
+    <path
+      d="M11.842 4.176c0-1.1.903-1.991 2.006-1.991h21.765v31.437c0 1.1-.69 2.552-1.553 3.254L23.728 45.27l-10.332-8.395c-.858-.697-1.554-2.157-1.554-3.254V4.176z"
+      id="a"/>
+    <mask id="e" x="0" y="0" width="23.771" height="43.086" fill="#fff">
+      <use xlink:href="#a"/>
+    </mask>
+    <path d="M19 22.152a3.714 3.714 0 1 0 5.253 5.253" id="b"/>
+    <mask id="f" x="0" y="0" width="6.341" height="6.341" fill="#fff">
+      <use xlink:href="#b"/>
+    </mask>
+    <path d="M31.607 28.455a3.714 3.714 0 1 0-5.253-5.253" id="c"/>
+    <mask id="g" x="0" y="0" width="6.341" height="6.341" fill="#fff">
+      <use xlink:href="#c"/>
+    </mask>
+    <ellipse id="d" cx="13.222" cy="13.222" rx="2.229" ry="2.229"/>
+    <mask id="h" x="0" y="0" width="4.457" height="4.457" fill="#fff">
+      <use xlink:href="#d"/>
+    </mask>
+  </defs>
+  <g transform="translate(-5 -5)" fill="none" fill-rule="evenodd">
+    <path d="M0 0h52v52H0z"/>
+    <use stroke="#515252" mask="url(#e)" stroke-width="4" transform="rotate(135 23.728 23.728)" xlink:href="#a"/>
+    <use stroke="#138668" mask="url(#f)" stroke-width="4" xlink:href="#b"/>
+    <use stroke="#138668" mask="url(#g)" stroke-width="4" xlink:href="#c"/>
+    <path d="M42.112 30.556L30.556 42.112" stroke="#515252" stroke-width="2" stroke-linecap="round"/>
+    <path d="M19.525 22.677L23.202 19s1.576-1.576 3.152 0M19 19l12.607 12.607" stroke="#138668" stroke-width="2"
+          stroke-linecap="round"/>
+    <path d="M6.919 6.919l5.253 5.253" stroke="#515252" stroke-width="2" stroke-linecap="round"/>
+    <path d="M26.88 23.728l-3.152 3.151" stroke="#138668" stroke-width="2"/>
+    <path d="M30.64 27.871l-2.765 3.12s-1.778 1.424-3.36.209" stroke="#138668" stroke-width="2" stroke-linecap="round"/>
+    <use stroke="#515252" mask="url(#h)" stroke-width="4" transform="rotate(135 13.222 13.222)" xlink:href="#d"/>
+  </g>
+</svg>

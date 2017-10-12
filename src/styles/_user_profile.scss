@@ -1,0 +1,845 @@
+.sameday-orders,
+.shipping-orders {
+    margin-top: 25px
+}
+
+.shipping-account-links {
+    margin: 10px 20px 0 0
+}
+
+.shipping-account-links ul li {
+    margin-bottom: 3px
+}
+
+.panel .panel-column.shipping-account-settings {
+    margin-right: 54px
+}
+
+.panel .panel-column.shipping-account-settings+.panel-column {
+    margin-right: 45px
+}
+
+form.full {
+    width: 100%
+}
+
+.panel {
+    padding: 40px
+}
+
+.panel-column.grid-3 {
+    margin-left: 0
+}
+
+.panel-column.full,
+.panel>* {
+    margin-left: 0
+}
+
+.panel-column.full {
+    width: 100%
+}
+
+h4.form-title {
+    font-family: "BentonSansCompressedMedium", Helvetica, Arial, sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    letter-spacing: 0.5px;
+    letter-spacing: 1px;
+    font-size: 26px;
+    text-transform: uppercase;
+    margin: 0 24px 16px 0
+}
+
+.form-body {
+    margin: 0;
+    border-top: none;
+    padding: 0
+}
+
+.form-buttons {
+    float: right
+}
+
+.account-header {
+    padding-top: 39px;
+    margin-bottom: 30px
+}
+
+.account-header h4 {
+    font-family: "BentonSans", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: 0.2px;
+    font-size: 13px;
+    color: #79776B
+}
+
+.account-header a.secondary {
+    font-size: 13px
+}
+
+.account-header .links {
+    float: right
+}
+
+.account-header .account-header-title,
+.account-header .breadcrumbs {
+    line-height: 1em;
+    margin-bottom: 0;
+    display: inline-block
+}
+
+.account-header .account-header-title {
+    font-family: "BentonSansCompressedMedium", Helvetica, Arial, sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    line-height: 1;
+    letter-spacing: 1px;
+    font-size: 32px
+}
+
+.account-header .breadcrumbs .separator {
+    margin: 0 5px
+}
+
+.account h4:first-child {
+    margin-top: auto
+}
+
+.account h4 {
+    margin-top: 30px
+}
+
+.account-profile {
+    font-size: 12px;
+    background-color: transparent
+}
+
+.account-profile .content {
+    float: left
+}
+
+.account-profile .panel {
+    padding: 24px
+}
+
+.account-profile .panel:after {
+    content: "";
+    clear: both;
+    display: table
+}
+
+.account-profile .button {
+    float: right;
+    margin: 2px 50px 0 0
+}
+
+.account-profile .set-password {
+    padding: 24px 40px
+}
+
+.account-profile .set-password .button {
+    margin-right: 0
+}
+
+.account-profile h4 {
+    font-size: 14px;
+    margin: 10px 0;
+    margin-bottom: 0
+}
+
+.account-profile p {
+    margin-top: 12px
+}
+
+.account-profile .profile-photo {
+    position: relative;
+    width: 270px;
+    min-width: 270px;
+    max-width: 270px;
+    background-color: #FAFAFA
+}
+
+@media only screen and (max-height: 750px),
+screen and (max-width: 1250px) {
+    .account-profile .profile-photo {
+        width: 235px;
+        min-width: 235px;
+        max-width: 235px
+    }
+}
+
+.account-profile .profile-photo.social {
+    position: relative;
+    width: 180px;
+    height: auto;
+    background-color: #FAFAFA
+}
+
+.account-profile .profile-photo .avatar-photo {
+    width: 270px;
+    min-width: 270px;
+    max-width: 270px;
+    height: 270px;
+    min-height: 270px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%
+}
+
+@media only screen and (max-height: 750px),
+screen and (max-width: 1250px) {
+    .account-profile .profile-photo .avatar-photo {
+        width: 235px;
+        min-width: 235px;
+        max-width: 235px;
+        height: 235px;
+        min-height: 235px
+    }
+}
+
+.account-profile .profile-photo a.change-photo-link {
+    display: none;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    line-height: 30px;
+    background-color: #F15A22;
+    opacity: 0.9;
+    color: white;
+    text-decoration: underline;
+    text-align: center
+}
+
+.account-profile .account-name {
+    font-size: 18px;
+    margin-top: 25px;
+    margin-bottom: 35px;
+    text-align: left
+}
+
+.account-profile .account-name:after {
+    display: block;
+    width: 50px;
+    height: 1px;
+    background-color: #42413E;
+    content: " ";
+    margin-top: 16px;
+    margin-left: 0px
+}
+
+.account-profile .primary-address div {
+    line-height: 18px
+}
+
+.account-profile .social {
+    margin-top: 50px
+}
+
+.account-profile .social p {
+    font-size: 12px
+}
+
+.account-profile .social .connect {
+    margin: 16px 0 28px;
+    float: left
+}
+
+.account-profile .social .button.facebook {
+    background-position-x: 20px
+}
+
+.account-profile .social .facebook-connected {
+    //background-image: url("/assets/social/social-facebook-dark-ae2d4e1313dda994faf2e4a7da695955650cc00a9a57c42c8b6fd8f787abb31e.svg");
+    background-repeat: no-repeat;
+    line-height: 22px;
+    padding-left: 20px
+}
+
+.account-profile .affiliated-cause {
+    margin-top: 30px
+}
+
+.account-profile .affiliated-cause h4 {
+    text-align: left
+}
+
+.account-profile .affiliated-cause .button {
+    margin-top: 10px;
+    float: none
+}
+
+li.account.dropdown-button .account-options li {
+    display: block !important;
+    margin-top: 0 !important
+}
+
+li.account.dropdown-button:after {
+    top: 17px !important;
+    right: 15px !important
+}
+
+li.account.dropdown-button.open:after {
+    transform: rotate(180deg)
+}
+
+li.account.dropdown-button::after {
+    display: none !important
+}
+
+li.account.dropdown-button:not(.open) {
+    padding-bottom: 0
+}
+
+ul.right li:not(.account) {
+    bottom: 19px;
+    vertical-align: text-bottom
+}
+
+li.account.dropdown-button .account-options li {
+    bottom: inherit
+}
+
+li.account .rewards-link:hover {
+    color: #515252
+}
+
+.profile-photo .link {
+    text-decoration: none
+}
+
+.edit_user {
+    margin: 0
+}
+
+.cart .cart-header {
+    padding: 0 0 5px 5px;
+    text-align: left;
+    font-size: 85%;
+    color: #666
+}
+
+.cart-meal {
+    position: relative;
+    padding: 5px
+}
+
+.cart-meal.exceed {
+    border: 1px solid #CF3900
+}
+
+.cart .meal-qty {
+    float: left;
+    color: #666;
+    width: 25px;
+    font-size: 93%;
+    margin-top: 1px
+}
+
+.cart .schedule,
+.cart .fulfillment {
+    border-bottom: 1px solid #E6F5DE
+}
+
+.cart .delivery-date {
+    font-family: "BentonSans", Helvetica, Arial, sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    letter-spacing: 0.5px;
+    margin: 10px 0 5px 0
+}
+
+.cart .chef {
+    display: table;
+    _position: relative;
+    overflow: hidden;
+    font-weight: bold;
+    margin-top: 5px
+}
+
+.cart .chef .chef-name {
+    _position: absolute;
+    _top: 50%;
+    display: table-cell;
+    vertical-align: middle
+}
+
+.cart .chef .chef-name span {
+    _position: relative;
+    _top: -50%;
+    margin-left: 5px
+}
+
+.cart .delivery-time {
+    margin-left: 10px
+}
+
+.cart .address-for-delivery {
+    margin-top: 12px
+}
+
+.cart .doorstep-delivery {
+    margin-top: 4px
+}
+
+.cart .meal-name {
+    float: left;
+    font-size: 100%;
+    width: 85%
+}
+
+.cart .meal-name a {
+    color: #424441
+}
+
+.cart .meal-name a.link {
+    color: #1181bb
+}
+
+.cart .cart-footer {
+    margin: 10px 0 10px 0
+}
+
+.cart .cart-footer .summary {
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.cart .cart-footer .light {
+    font-size: 90%;
+    color: gray
+}
+
+.cart .cart-footer.membership-savings,
+.cart .cart-footer.reewod-giving {
+    font-family: "BentonSans", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: 0.2px;
+    font-size: 13px;
+    color: #138668;
+    margin-top: 30px
+}
+
+.cart .order-label,
+.cart .order-price {
+    display: inline-block;
+    font-size: 93%
+}
+
+.cart .order-label {
+    width: 57%
+}
+
+.cart .order-label.delivery-charge a {
+    color: #424441
+}
+
+.cart .order-price {
+    text-align: right;
+    width: 40%
+}
+
+.cart .delivery-charge-question {
+    position: absolute;
+    margin-left: 4px;
+    margin-top: 1px
+}
+
+.cart .dialog-tip .order-label,
+.cart .dialog-tip .order-price {
+    font-size: 100%
+}
+
+.cart .dialog-tip .summary {
+    width: 80%
+}
+
+.past-order h2 {
+    font-family: "BentonSansCompressedMedium", Helvetica, Arial, sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    letter-spacing: 0.5px;
+    letter-spacing: 1px;
+    font-size: 26px;
+    text-transform: uppercase;
+    margin: 0 24px 12px 0;
+    text-align: left
+}
+
+.past-order h2.inline {
+    display: inline-block;
+    margin-bottom: 0
+}
+
+.past-order h5 {
+    font-size: 15px
+}
+
+.past-order p {
+    margin: 12px 0 24px
+}
+
+.past-order .delivery-time {
+    margin-left: 0
+}
+
+.past-order .delivery-date {
+    margin-top: 20px
+}
+
+.past-order .summary {
+    margin: auto
+}
+
+.past-order .info-content {
+    padding-bottom: 16px;
+    border-bottom: 1px solid #e8ebe9
+}
+
+.past-order .order-status {
+    margin: 0 24px 16px 0;
+    font-size: 14px
+}
+
+.past-order .panel-column {
+    margin-left: 0;
+    margin-right: 0
+}
+
+.past-order .canceled {
+    color: #DE240B;
+    margin-top: 10px
+}
+
+.past-order .canceled-items,
+.past-order .order-refunds {
+    margin-bottom: 50px
+}
+
+.past-order .price {
+    text-align: right
+}
+
+.past-order .refund {
+    margin-top: 20px
+}
+
+.past-order .refund-processing {
+    color: #DE240B;
+    margin-bottom: 20px
+}
+
+.past-order tr.bottom-line {
+    border-bottom: 1px solid #e8ebe9
+}
+
+.past-order td {
+    vertical-align: middle
+}
+
+.past-order .button {
+    margin-right: 0
+}
+
+.past-order .cancel-button {
+    display: inline-block;
+    float: right
+}
+
+#customer-order h1 {
+    font-size: 25px;
+    font-weight: normal;
+    text-align: center
+}
+
+#customer-order #customer-order-header {
+    font-weight: bold;
+    padding: 0px 5px 5px 10px;
+    text-align: left
+}
+
+#customer-order .meal-qty {
+    float: left;
+    width: 30px;
+    font-size: 93%
+}
+
+#customer-order .meal-name {
+    float: left;
+    width: 240px;
+    font-size: 13px
+}
+
+#customer-order .meal-price {
+    float: right;
+    font-size: 93%
+}
+
+#customer-order-meal {
+    position: relative;
+    padding: 5px 5px 5px 10px;
+    text-align: left
+}
+
+#customer-order-meal.exceed {
+    border: 1px solid #CF3900
+}
+
+#customer-order #customer-order-footer {
+    margin-top: 20px;
+    margin-bottom: 30px;
+    text-align: left
+}
+
+#customer-order #customer-order-footer div {
+    margin-bottom: 2px
+}
+
+#customer-order #customer-order-footer span.order-label {
+    text-align: left;
+    font-size: 93%;
+    margin-left: 40px
+}
+
+#customer-order #customer-order-footer span.order-price {
+    float: right;
+    font-size: 93%
+}
+
+.gift-card .form-buttons {
+    margin-top: 30px
+}
+
+.edit-delivery.panel {
+    margin: 40px 0
+}
+
+.edit-delivery h2 {
+    font-family: "BentonSansCompressedMedium", Helvetica, Arial, sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    letter-spacing: 0.5px;
+    font-size: 26px;
+    letter-spacing: 0.8px;
+    line-height: 1.2em;
+    color: #42413E;
+    text-transform: uppercase;
+    text-align: left;
+    margin-left: 48px
+}
+
+.edit-delivery .panel-column {
+    margin-bottom: 40px;
+    margin-left: 48px
+}
+
+.edit-delivery .panel-column p {
+    margin-top: 16px;
+    letter-spacing: 0.2px
+}
+
+.edit-delivery form {
+    margin: 0 48px
+}
+
+.edit-delivery .select-time,
+.edit-delivery .delivery-time {
+    font-family: "BentonSans", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: 0.2px;
+    font-size: 14px;
+    letter-spacing: 0.5px;
+    margin-right: 8px
+}
+
+.edit-delivery .select-time:before,
+.edit-delivery .delivery-time:before {
+    content: ''; //background-image: url(/assets/checkout/icon-sprite-3e7c57198aaca9bd910e01be5cec37c67c6e0187f04df4253ca4a41ee6e65a4e.svg);
+    background-size: 100%;
+    background-position: center 20px;
+    vertical-align: -15%;
+    width: 15px;
+    height: 20px;
+    display: inline-block;
+    margin-right: 12px
+}
+
+.edit-delivery .doorstep-delivery {
+    margin-left: 27px
+}
+
+.edit-delivery .detail {
+    box-sizing: border-box;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 1 auto;
+    -ms-flex: 0 1 auto;
+    flex: 0 1 auto;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    -webkit-align-items: flex-start;
+    margin-top: 16px
+}
+
+.edit-delivery .detail .item-thumb {
+    line-height: 0;
+    width: 60px;
+    height: 60px;
+    background-color: #e8ebe9;
+    overflow: hidden
+}
+
+.edit-delivery .detail .item-thumb img {
+    width: 100%
+}
+
+.edit-delivery .detail .ordered-items {
+    margin-left: 12px;
+    align-self: center
+}
+
+.edit-delivery .detail .ordered-items .meal-name {
+    font-family: "BentonSans", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: 0.2px;
+    font-size: 14px;
+    letter-spacing: 0.2px
+}
+
+.edit-delivery .order-date {
+    font-family: "BentonSans", Helvetica, Arial, sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    letter-spacing: 0.5px;
+    font-size: 14px;
+    margin-bottom: 16px
+}
+
+.edit-delivery .delivery-instruction {
+    font-family: "BentonSans", Helvetica, Arial, sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    letter-spacing: 0.5px;
+    font-size: 10px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    margin: 28px 0 4px
+}
+
+.edit-delivery .instruction-textarea textarea {
+    width: 400px;
+    height: 100px;
+    margin-bottom: 28px
+}
+
+.edit-delivery .form-buttons {
+    margin-top: 32px;
+    letter-spacing: 0.5px
+}
+
+.edit-delivery .form-buttons .button {
+    margin: 0 4px;
+    min-width: 170px
+}
+
+.manage-company h2 {
+    font-family: "BentonSansCompressedMedium", Helvetica, Arial, sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    letter-spacing: 0.5px;
+    font-size: 26px;
+    letter-spacing: 1px;
+    text-align: left;
+    text-transform: uppercase
+}
+
+.manage-company h5 {
+    font-size: 15px;
+    letter-spacing: 0.5px;
+    line-height: 20px;
+    margin-top: 24px
+}
+
+.manage-members h2 {
+    font-family: "BentonSansCompressedMedium", Helvetica, Arial, sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    letter-spacing: 0.5px;
+    font-size: 26px;
+    letter-spacing: 1px;
+    text-align: left;
+    text-transform: uppercase;
+    display: inline-block
+}
+
+.manage-members #company-members {
+    margin-top: 24px
+}
+
+.manage-members ul {
+    margin-bottom: 16px
+}
+
+.company-delivery h2 {
+    font-family: "BentonSansCompressedMedium", Helvetica, Arial, sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    letter-spacing: 0.5px;
+    font-size: 26px;
+    letter-spacing: 1px;
+    text-align: left;
+    text-transform: uppercase;
+    display: inline-block
+}
+
+.set-profile {
+    margin: 40px 0
+}
+
+.set-profile h3 {
+    font-size: 16px
+}
+
+.set-profile p {
+    margin-bottom: 20px
+}
+
+.set-profile .panel {
+    margin-bottom: 0
+}
+
+.set-profile .panel .field {
+    display: inline-block
+}
+
+.green {
+    color: #138668
+}
+
+.avatar-photo.photo {
+    background-image: url('../../src/static/images/avatars/blank_user_avatar_large.svg');
+}
+
+.account-profile .profile-photo:hover {
+    a.change-photo-link {
+        display: inline;
+    }
+}

@@ -1,0 +1,25 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36" height="36"
+     viewBox="0 0 36 36">
+  <title>icon_bag</title>
+  <defs>
+    <rect id="a" x=".5" y=".9" width="23" height="18" rx="1"/>
+    <mask id="b" x="0" y="0" width="23" height="18" fill="#fff">
+      <use xlink:href="#a"/>
+    </mask>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <path d="M0 0h36v36H0z"/>
+    <use mask="url(#b)" xlink:href="#a" transform="translate(3 12.1)" stroke="#363835" stroke-width="3"/>
+    <path
+      d="M4.151 14.054l3.304-3.724c.222-.245.68-.443 1.013-.443h20.919c.337 0 .61.279.61.61l.03 15.624c-.08.584-.286 1.045-.535 1.271l-3.884 2.948M29.7 10.45l-4.133 3.445"
+      stroke="#363835" stroke-width="1.5"/>
+    <path stroke="#FF7D4C" stroke-width=".5" stroke-linecap="round" stroke-linejoin="round" fill="#FF7D4C"
+          d="M11 25.3h1.28v-4.183l1.714 4.183h1.072l1.722-4.209V25.3h1.384V19H16.33l-1.74 4.302L12.853 19H11z"/>
+    <path d="M11 14v-3.938C11.373 8.373 12.325 7 14 7h3.002c1.683 0 2.913 1.375 2.998 3.063V14" stroke="#363835"
+          stroke-width="1.5"/>
+    <path d="M14 10V7.062C14.373 5.373 15.325 4 17 4h3.002C21.685 4 22.915 5.375 23 7.063V10" stroke="#363835"
+          stroke-width="1.5"/>
+  </g>
+</svg>
